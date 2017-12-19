@@ -8,6 +8,7 @@
   Created: 2017-07-14
   License: MIT
   Replaces: 0
+  Language: Romanian (in Progress)
 </pre>
 
 =The Social Smart Contract.=
@@ -15,7 +16,25 @@ An Initial Rights Offering from [http://democracy.earth Democracy Earth Foundati
 
 ==i. Abstract.==
 
-In a world that has succeeded in the globalization of financial assets while keeping political rights enclosed to territories, we need to build new models of democratic governance that enable humanity to collaborate and address pressing global issues. Democracy Earth Foundation is building free, open source software for incorruptible blockchain-based voting within institutions of all sizes, from the most local involving two people to the most global involving all of us. Uneven distribution of opportunity around the globe due to the perpetual confrontation between national governments has led to accelerated climate change, rising inequality, terrorism and forced migrations.  Democracy Earth Foundation considers that the technology stack that includes Bitcoin as programmable money without Central Banks, and Ethereum enabling smart contracts without the need of Judiciary Courts, requires a new layer that signals incorruptible votes beyond the territorial boundaries of Nation-States. This transnational network will act in accordance with the personal sovereignty of its members and protect their human rights with encryption. In our Initial Rights Offering we offer a token called ''vote'' that will grant participation rights to every human with decision making as its main function. Our proposal introduces cryptographically induced equality: as long as any person is able to validate his or her self-sovereign identity, they will receive a corresponding share of ''votes'' that is equal to the share of every active participant in the network. We define a ''Proof of Identity'' process that avoids central authority by introducing the concept of ''attention mining'' which incentivizes participants to strengthen the trust of ''votes'' by performing simple tests aimed at detecting replicants. Finally ''votes'' get dripped to valid participants under a ''Universal Basic Income'' mechanism with a goal of finding a proper equilibrium in the historical tension between money and politics. We seek nothing less than true democratic governance for the Internet age, one of the foundational building blocks of an achievable global peace and prosperity arising from an arc of technological innovations that will change what it means to be human on Earth.
+Trăim într-o lume care a reușit globalizarea activele financiare conservând în același timp mecanismul de distribuire a drepturilor politice în baza apartenenței teritoriale.
+
+Această realitate ne impune construirea de noi modele de guvernare democratică care să permită omenirii să colaboreze și să abordeze chestiuni globale presante.
+
+Fundația Democracy Earth construiește software liber, cu sursă deschisă, pentru a facilita votul incoruptibil în cadrul instituțiilor de toate dimensiunile, de la cele mai locale care implică doi oameni până la cele mai globale care implică pe toată lumea. 
+
+
+Distribuția inegală a oportunităților în întreaga lume ca urmare a confruntării perpetue dintre guvernele naționale a dus la o schimbare climatică accelerată, la o creștere a inegalității, la terorism și la migrații forțate. 
+
+
+Fundația Democracy Earth consideră că pachetul tehnologic care include Bitcoin ca și bani programabili fără nevoia unei bănci centrale și Ethereum care permite contracte inteligente fără nevoia de instanțe judecătorești, necesită un nou strat, un efort democratizator incluziv prin oferirea posibilității de vot incoruptibil dincolo de granițele teritoriale ale națiunilor-stat.
+
+
+Această rețea transnațională va acționa în conformitate cu suveranitatea personală a membrilor săi și va proteja drepturile omului prin criptare. În oferta noastră inițială de drepturi, oferim un bun numit "vot" cu scopul de a acorda dreptul de a participa activ la deciziile care ne definesc realitatea. Propunerea noastră introduce o egalitate indusă de criptografie: atâta timp cât orice persoană poate să-și valideze identitatea suverană, va primi o cotă corespunzătoare  de "voturi" care este egală cu cel primit de ceilalți participanți activi din rețea.
+
+Definim un proces de "Dovadă a Identității" (Proof of Identity) care evită autoritatea centrală prin introducerea conceptului de "minerit de atenție" (attentiton mining) care stimulează participanții să consolideze încrederea "voturilor" prin efectuarea unor teste simple care vizează detectarea replicanților. În cele din urmă, "voturile" se distribuie la participanții validați prin intermediul unui mecanism "Universal Basic Income" cu scopul de a găsi un echilibru adecvat în tensiunile istorice dintre bani și politică. 
+
+Nu căutăm nimic mai puțin decât o guvernare democratică adevărată și adecvată erei internetului. Materializăm o componentă fundamentală a păcii și prosperități globale și mult necesară în prezentul context al inovației tehnologice care va altera sensul actual al omului pe pământ.
+
 
 ==ii. Contents.==
 
